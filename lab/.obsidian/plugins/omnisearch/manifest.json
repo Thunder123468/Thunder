@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b59d209523741c60b091a1fd924c636cc10e0f0a51215183f9c78fa2184fb81
+size 392
+=======
+{
+  "id": "omnisearch",
+  "name": "Omnisearch",
+  "version": "1.13.0",
+  "minAppVersion": "1.0.0",
+  "description": "A search engine that just works",
+  "author": "Simon Cambier",
+  "authorUrl": "https://github.com/scambier/obsidian-omnisearch",
+  "fundingUrl": {
+    "Github": "https://github.com/sponsors/scambier",
+    "Ko-fi": "https://ko-fi.com/scambier"
+  },
+  "isDesktopOnly": false
+}
+>>>>>>> 784e441 (try)

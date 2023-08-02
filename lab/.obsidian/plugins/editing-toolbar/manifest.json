@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb3c6c3687829cbd155026c9b9aab842966cd195e31cb93265f122a3158cd96
+size 522
+=======
+{
+	"id": "editing-toolbar",
+	"name": "Editing Toolbar",
+	"version": "2.3.1",
+	"minAppVersion": "0.14.0",
+	"description": "The Obsidian Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.",
+	"author": "Cuman",
+	"authorUrl": "https://github.com/cumany/obsidian-editing-toolbar",
+	"fundingUrl": "https://github.com/cumany#thank-you-very-much-for-your-support",
+	"isDesktopOnly": true
+  }
+>>>>>>> 784e441 (try)

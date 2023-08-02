@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:d295ee173688cd83c495b91e675d2d9848752a166e4227a093b9ba52a7e6ab5d
+size 124
+=======
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "showViewHeader": true
+}
+>>>>>>> 784e441 (try)

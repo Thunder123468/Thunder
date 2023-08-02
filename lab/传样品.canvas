@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:47c1bf44e43f81428b1ec220d7b0d120be3fc50e08545a53722fc8649fe9c4e7
+size 7811
+=======
+{
+	"nodes":[
+		{"type":"text","text":"确认<font color=red>闸板阀</font>关闭，LLC的<font color=green>离子规</font>关闭，然后打开盖子，用传递棒将针尖和样品旋转在台子上。之后把盖子关紧\n↓传递棒（名字怎么叫都行）\n![[传输棒]]\n逆时针方向是拧松，顺时针是拧紧。很明显可以看到，逆时针虽然是拧松，但对于传输的东西来说，是卡在传递棒上的。","id":"30c03407e66a4d47","x":-855,"y":160,"width":384,"height":640},
+		{"type":"file","file":"素材/LLC中的台子.jpg","id":"ab16b0823125d606","x":-1400,"y":-152,"width":400,"height":225},
+		{"type":"text","text":"打开<font color = red>闸板阀</font>，分别将样品和针尖传入prep（PC）。\n![[prep上传杆.jpg|350]]\n","id":"8b07e40269d52d07","x":-877,"y":1572,"width":428,"height":712},
+		{"type":"file","file":"素材/PC腔体.jpg","id":"14f3ee6b26963438","x":-345,"y":1572,"width":400,"height":225},
+		{"type":"text","text":"PC中的台子\n![[Drawing 2023-04-07 08.26.49.excalidraw]]","id":"c44d34d3203d9085","x":-1400,"y":1498,"width":250,"height":374},
+		{"type":"text","text":"针尖所处的台子\n![[针尖台.jpg]]","id":"c2ad4b4effd55998","x":-1245,"y":960,"width":250,"height":340},
+		{"type":"text","text":"样品所处的台子\n![[样品台.jpg]]","id":"627f0dede532adeb","x":-345,"y":960,"width":250,"height":340},
+		{"type":"text","text":"首先，样品和针尖从LLC中放入\n![[Drawing 2023-04-06 11.26.42.excalidraw]]\n","id":"14dfffcfa0e59243","x":-843,"y":-250,"width":360,"height":270},
+		{"type":"file","file":"素材/LLC.jpg","id":"a134aa0d33a6112e","x":-867,"y":-480,"width":409,"height":230},
+		{"type":"text","text":"<h3><center>处理好样品之后</h3></center>","id":"d7da6636bb6ba910","x":-787,"y":-680,"width":250,"height":59,"color":"3"},
+		{"type":"file","file":"素材/闸板阀（关闭）.jpg","id":"e4475e16903af6e8","x":-320,"y":400,"width":225,"height":400},
+		{"type":"file","file":"素材/闸板阀（开启）.jpg","id":"a2b6340cb5e1e58c","x":-71,"y":400,"width":225,"height":400},
+		{"type":"text","text":"<h1><center><font color=red>注意事项</font></center></h1>\n<h3>1.不要拧的太紧，这句话适用任何位置的针尖和样品</h3>\n\n\n\n\n","id":"a69b80bf48fc9428","x":-320,"y":159,"width":400,"height":168,"color":"1"},
+		{"type":"text","text":"<h1>继续传到PC中</h1>","id":"60b152f14f24b6c9","x":-788,"y":1160,"width":250,"height":60},
+		{"type":"text","text":"<h3>2.打开每个阀门之前记得看一下压强</h3>","id":"4f10eb4f56f9eef3","x":473,"y":198,"width":250,"height":90,"color":"1"},
+		{"type":"file","file":"素材/打开阀门前.jpg","id":"196e8e41b8c8f009","x":373,"y":400,"width":225,"height":400},
+		{"type":"file","file":"素材/打开阀门后.jpg","id":"38989f1882855d8a","x":611,"y":400,"width":225,"height":400},
+		{"type":"text","text":"<h1><center><font color=red>注意事项</font></center></h1>\n<h3>1.水平杆很长，注意不要碰到了</h3>\n<h3>2.继续往exc腔体传输时，记得将竖直杆拉到最上面</h3>\n\n\n\n","id":"40cab46129b81fe6","x":-345,"y":2018,"width":400,"height":266,"color":"1"},
+		{"type":"text","text":"关闭PC和LLC之间的闸板阀，等待真空恢复一段时间后，打开PC和EXC之间的<font color=red>闸板阀</font>，传入EXC中的水平杆上的台子上\n![[EXC腔.jpg]]\n再之后转移到这个最高的竖直传样杆上。","id":"7bbdef39b6a311d6","x":-876,"y":2840,"width":428,"height":783},
+		{"type":"text","text":"<h1><center>继续传入EXC腔</h1></center>","id":"8e77507849a949d4","x":-831,"y":2520,"width":337,"height":60},
+		{"type":"text","text":"<h1><center>解离</center></h1>","id":"3d6a22b54acd411c","x":-70,"y":3202,"width":250,"height":60},
+		{"type":"file","file":"解离使用方法.md","id":"4b091e74f53536a6","x":480,"y":2920,"width":560,"height":808},
+		{"type":"text","text":"<h1><center>送进杜瓦</h1></center>\n","id":"41e4aca8f4204429","x":-787,"y":3880,"width":250,"height":60,"color":"1"},
+		{"type":"file","file":"PREP(PC)烘烤样品使用方法.md","id":"83869117277b1197","x":-1550,"y":2120,"width":400,"height":400},
+		{"type":"file","file":"离子规使用方法.md","id":"9c39207814d0d1ce","x":-1550,"y":400,"width":400,"height":400},
+		{"type":"file","file":"素材/EXC中的水平样品台.jpg","id":"d6e7023267e0721d","x":-1490,"y":2671,"width":280,"height":498},
+		{"type":"text","text":"<h1><center><font color=red>注意事项</font></center></h1>\n<h3>1.竖直杆有一个滑轮便于升降，另外有一个小齿轮传动装置来控制转动，此时转动方向相反</h3>\n<h3>2.继续往exc腔体传输时，PC的水平杆伸得很长，末端会有很明显的震动，切记抓取和脱离都要慢，不然容易撞到针尖</h3>\n<h3>3.这一步转移的时候需要一定的臂展，注意安全。</h3>\n\n\n\n","id":"bf7186f11d143f95","x":-1490,"y":3252,"width":400,"height":371,"color":"1"},
+		{"type":"file","file":"杜瓦的相关注意事项.md","id":"8cdd0a3fd6db67ab","x":-1490,"y":3740,"width":400,"height":400},
+		{"type":"file","file":"传入杜瓦时的相关操作.md","id":"d60ff007a9b2002e","x":-893,"y":4360,"width":462,"height":800}
+	],
+	"edges":[
+		{"id":"042be8e310249f3b","fromNode":"d7da6636bb6ba910","fromSide":"bottom","toNode":"a134aa0d33a6112e","toSide":"top"},
+		{"id":"88508ac7d3561593","fromNode":"14dfffcfa0e59243","fromSide":"bottom","toNode":"30c03407e66a4d47","toSide":"top"},
+		{"id":"c7f9cab41cbcde0b","fromNode":"30c03407e66a4d47","fromSide":"left","toNode":"ab16b0823125d606","toSide":"bottom"},
+		{"id":"5c24929d7ae5647d","fromNode":"ab16b0823125d606","fromSide":"top","toNode":"a134aa0d33a6112e","toSide":"left"},
+		{"id":"b9dd591259261d49","fromNode":"30c03407e66a4d47","fromSide":"left","toNode":"9c39207814d0d1ce","toSide":"right"},
+		{"id":"d634c8310f8841c0","fromNode":"30c03407e66a4d47","fromSide":"right","toNode":"e4475e16903af6e8","toSide":"left"},
+		{"id":"8f40fe1076032961","fromNode":"30c03407e66a4d47","fromSide":"bottom","toNode":"c2ad4b4effd55998","toSide":"right"},
+		{"id":"893ece0cc55d9bcd","fromNode":"30c03407e66a4d47","fromSide":"bottom","toNode":"627f0dede532adeb","toSide":"left"},
+		{"id":"b7ecadf9aa1885a2","fromNode":"c2ad4b4effd55998","fromSide":"bottom","toNode":"8b07e40269d52d07","toSide":"top"},
+		{"id":"27874ac6e234ed00","fromNode":"627f0dede532adeb","fromSide":"bottom","toNode":"8b07e40269d52d07","toSide":"top"},
+		{"id":"f09eba7dcc56b999","fromNode":"8b07e40269d52d07","fromSide":"left","toNode":"83869117277b1197","toSide":"right"},
+		{"id":"91894b011bd09bef","fromNode":"8b07e40269d52d07","fromSide":"left","toNode":"c44d34d3203d9085","toSide":"right"},
+		{"id":"fb17c8a524edec00","fromNode":"a69b80bf48fc9428","fromSide":"right","toNode":"4f10eb4f56f9eef3","toSide":"left"},
+		{"id":"c9825864afb3d2e8","fromNode":"8b07e40269d52d07","fromSide":"bottom","toNode":"8e77507849a949d4","toSide":"top"},
+		{"id":"c066be49e4cf77bd","fromNode":"8e77507849a949d4","fromSide":"bottom","toNode":"7bbdef39b6a311d6","toSide":"top"},
+		{"id":"a7bf2d0e7170d131","fromNode":"7bbdef39b6a311d6","fromSide":"right","toNode":"3d6a22b54acd411c","toSide":"left"},
+		{"id":"7cebd4af4d7eebe0","fromNode":"7bbdef39b6a311d6","fromSide":"bottom","toNode":"41e4aca8f4204429","toSide":"top"},
+		{"id":"aae7fdb983143f35","fromNode":"3d6a22b54acd411c","fromSide":"right","toNode":"4b091e74f53536a6","toSide":"left"},
+		{"id":"81df78c26333db4a","fromNode":"7bbdef39b6a311d6","fromSide":"left","toNode":"d6e7023267e0721d","toSide":"right"},
+		{"id":"3d825f60b8329973","fromNode":"41e4aca8f4204429","fromSide":"left","toNode":"8cdd0a3fd6db67ab","toSide":"right"},
+		{"id":"8ac53ed7e587a29e","fromNode":"41e4aca8f4204429","fromSide":"bottom","toNode":"d60ff007a9b2002e","toSide":"top"}
+	]
+}
+>>>>>>> 784e441 (try)

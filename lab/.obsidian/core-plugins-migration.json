@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1b06ad58122ae432475e074b093357d7b7d4d90742f2c4e70d4250a4be44e7f
+size 629
+=======
+{
+  "file-explorer": true,
+  "global-search": true,
+  "switcher": true,
+  "graph": true,
+  "backlink": true,
+  "canvas": true,
+  "outgoing-link": true,
+  "tag-pane": true,
+  "page-preview": true,
+  "daily-notes": true,
+  "templates": true,
+  "note-composer": true,
+  "command-palette": true,
+  "slash-command": false,
+  "editor-status": true,
+  "starred": true,
+  "markdown-importer": true,
+  "zk-prefixer": false,
+  "random-note": true,
+  "outline": true,
+  "word-count": true,
+  "slides": false,
+  "audio-recorder": true,
+  "workspaces": false,
+  "file-recovery": true,
+  "publish": false,
+  "sync": true,
+  "bookmarks": true
+}
+>>>>>>> 784e441 (try)

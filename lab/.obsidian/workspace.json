@@ -1,0 +1,275 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:3485f4c3ea42217d194dc6e561ce00ac06f5fb1d12136c3329c1768c7c3d50bc
+size 7645
+=======
+{
+  "main": {
+    "id": "a44a4c6c3c25aaea",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d86fef6f70f838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb49febccf43dbab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USM1300磁场相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ebf7e01d975cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验操作/修针尖.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c784b7d4eb65c3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概念/STM基本原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21cb7a7c56ca25cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验操作/实验中遇到的问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2b8c2c6ebbaf0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验操作/修针尖.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "197344765cb07eca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "各种阀门.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2444db55d6fc6bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc815e6e220e95a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5de2d31f9498db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2c41c23d59bff51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abb51101d7e6d51d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5cecd5cae00c0fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "257afec39c76b03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c994892cd97aa6a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "732ee6278e9fd2fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "各种阀门.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15ff376998ee251c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "各种阀门.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8782f609ead4a51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d1bea4c2f27d844",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "各种阀门.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "197344765cb07eca",
+  "lastOpenFiles": [
+    "各种阀门.md.baiduyun.uploading.cfg",
+    "Pasted Image 20230727111348_350.png.baiduyun.uploading.cfg",
+    "素材/Pasted Image 20230727111348_350.png",
+    "实验操作/实验中遇到的问题.md",
+    "概念/STM基本原理.md",
+    "实验操作/修针尖.md",
+    "实验操作/蒸镀.md",
+    "Igor pro 处理数据.md",
+    "概念/凝聚态相关概念.md",
+    "概念/凝聚态相关概念.md.baiduyun.uploading.cfg",
+    "实验操作/STS操作.md",
+    "实验操作/STS操作.md.baiduyun.uploading.cfg",
+    "实验操作/蒸镀.md.baiduyun.uploading.cfg",
+    "素材/1690425823207.jpg",
+    "ba61349cb11832dce065bc0b60ab9e93.mp4.baiduyun.uploading.cfg",
+    "素材/ba61349cb11832dce065bc0b60ab9e93.mp4",
+    "1690425823207.jpg.baiduyun.uploading.cfg",
+    "实验操作/未命名.md.baiduyun.uploading.cfg",
+    "未命名.md.baiduyun.uploading.cfg",
+    "实验操作/修针尖.md.baiduyun.uploading.cfg",
+    "素材/1690425672230.jpg",
+    "素材/华为扫描_20230727103632027.jpg",
+    "传入杜瓦时的相关操作.md",
+    "打印机使用手册.md",
+    "杜瓦的相关注意事项.md",
+    "各种阀门.md",
+    "解离使用方法.md",
+    "USM1300磁场相关.md",
+    "素材/1690381907037.png",
+    "PREP(PC)烘烤样品使用方法.md",
+    "传样品.canvas",
+    "离子规使用方法.md",
+    "制样台处理样品方法.md",
+    "素材/Pasted image 20230522154216.png",
+    "素材/Pasted image 20230522160706.png",
+    "素材/Pasted image 20230522160216.png",
+    "素材/Pasted image 20230522160001.png",
+    "素材/Pasted image 20230522155326.png",
+    "传输棒.md",
+    "素材/Drawing 2023-04-06 11.26.42.excalidraw.md",
+    "Drawing 2023-04-06 11.30.49.excalidraw.md",
+    "Drawing 2023-04-06 11.30.29.excalidraw.md",
+    "素材/Drawing 2023-04-06 11.18.04.excalidraw.md",
+    "Drawing 2023-04-06 11.16.12.excalidraw.md"
+  ]
+}
+>>>>>>> 784e441 (try)

@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:e39086851e60cf16d33bbf47703605229d6daea7323345718f17d87e367d5ac1
+size 150
+=======
+[
+  "obsidian-excalidraw-plugin",
+  "media-extended",
+  "cmdr",
+  "editing-toolbar",
+  "omnisearch",
+  "obsidian-image-toolkit",
+  "obsidian42-brat"
+]
+>>>>>>> 784e441 (try)

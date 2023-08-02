@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:eee8fa30f80d0a1337e6585255790504e93eb33ce262f23f9d3f561f20d87d91
+size 280
+=======
+{
+  "id": "media-extended",
+  "name": "Media Extended",
+  "version": "2.11.1",
+  "minAppVersion": "0.12.2",
+  "description": "Media(Video/Audio) Playback Enhancement for Obsidian.md",
+  "author": "AidenLx",
+  "authorUrl": "https://github.com/AidenLx/",
+  "isDesktopOnly": false
+}
+>>>>>>> 784e441 (try)

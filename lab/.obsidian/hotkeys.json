@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c92f92f615daa8d4b99ef8e99fd995eb9be51d1a85ec5fe2012dfa3782c8aa1
+size 138
+=======
+{
+  "editing-toolbar:change-font-color": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
+>>>>>>> 784e441 (try)
